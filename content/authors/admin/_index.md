@@ -10,7 +10,7 @@ first_name: Thomas
 last_name: SIMON
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns:
 
 # Status emoji
 status:
