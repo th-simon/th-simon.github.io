@@ -36,12 +36,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:thomas.simon@uni-mannheim.de'
     label: E-mail Me
+  - icon: building-library
+    url: https://www.bwl.uni-mannheim.de/en/simons/team/thomas-simon/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/thomas-simon-mannheim/
   - icon: brands/github
     url: https://github.com/th-simon
-  - icon: building-library
-    url: https://www.bwl.uni-mannheim.de/en/simons/team/thomas-simon/
 
 interests:
   - Large Language Models
