@@ -7,7 +7,7 @@
 title: Thomas SIMON
 # Website URL
 baseURL: 'https://thomas-simon.org/'
-favicon: assets/"media/favicon.png"
+favicon: assets/media/favicon.png
 
 ############################
 ## LANGUAGE
