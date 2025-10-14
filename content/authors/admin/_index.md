@@ -162,4 +162,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a final-stage Ph.D. candidate in Accounting at the University of Mannheim and will be on the 2025/26 academic job market. My research explores how incentives and transparency guide decision-making inside organizations. I investigate how accounting-based mechanisms extend beyond firms — shaping behavior and accountability in settings such as healthcare and policing. Across projects, my goal is to generate evidence that informs governance, policy, and practice.
