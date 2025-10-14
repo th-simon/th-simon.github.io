@@ -25,6 +25,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
+favicon: "media/favicon.png"
 
 # Site header
 header:
