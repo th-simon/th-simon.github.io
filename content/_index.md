@@ -31,16 +31,38 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
+  - block: resume-experience
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+    title: "Experience"
+    # You can either refer to username: admin or define them directly below
+    # username: admin
+    items:
+      - title: Doctoral Researcher in Accounting
+        company: University of Mannheim
+        company_url: "https://www.bwl.uni-mannheim.de/en/simons/team/thomas-simon/"
+        date_start: 2019-09-01
+        date_end:
+        description: "Graduate School of Economics and Social Sciences (GESS)"
+      - title: Visiting Research Scholar
+        company: University of Miami, Florida, U.S.
+        company_url: "https://www.bus.miami.edu/"
+        date_start: 2024-08-01
+        date_end: 2024-12-31
+        description: "Invited by Mark Maffett"
+      - title: Research and Teaching Assistant
+        company: University of Mannheim
+        date_start: 2017-09-01
+        date_end: 2019-08-31
+        description: "Chair of Accounting and Auditing"
+      - title: Lecturer (part-time)
+        company: Baden-Wuerttemberg Cooperative State University
+        date_start: 2020-03-01
+        date_end:
+        description: "Teaching Financial Accounting and Controlling"
+  design:
+    date_format: 'January 2006'
+    is_education_first: false
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
