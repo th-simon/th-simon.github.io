@@ -14,8 +14,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-      show_summary: true
-      show_icons: false
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
