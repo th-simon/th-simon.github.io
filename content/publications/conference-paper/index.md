@@ -63,6 +63,8 @@ links:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
+  quality: 95   
+  resampleFilter: Lanczos
   preview_only: false
 
 # Associated Projects (optional).
