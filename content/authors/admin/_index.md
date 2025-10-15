@@ -77,4 +77,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am a final-stage Ph.D. candidate in Accounting at the University of Mannheim and will be on the 2025/26 academic job market. My research examines how incentive design and transparency rules shape decision-making inside organizations. I study these questions both within firms and in other institutional settings such as healthcare and policing. Using empirical-archival and survey-based methods, my goal is to generate evidence that informs policy and practice.
+I am a final-stage Ph.D. candidate in Accounting at the University of Mannheim and will be on the 2025/26 academic job market. In 2024, I was a visiting research scholar at the University of Miami. My research examines how incentive design and transparency rules shape decision-making inside organizations. I study these questions both within firms and in other institutional settings such as healthcare and policing. Using empirical-archival and survey-based methods, my goal is to generate evidence that informs policy and practice.
