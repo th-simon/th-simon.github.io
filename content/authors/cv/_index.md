@@ -48,29 +48,25 @@ education:
     institution: University of Mannheim
     date_start: 2019-09-01
     date_end: ""
-    summary: |
-      Supervised by Prof. Dirk Simons and Prof. Jannis Bischof.
+    summary: ""
 
   - area: Visiting Research Scholar
     institution: University of Miami, Florida, U.S.
     date_start: 2024-08-01
     date_end: 2024-12-31
-    summary: |
-      Invited by Prof. Mark Maffett.
+    summary: ""
 
   - area: M.Sc. in Management
     institution: University of Mannheim
     date_start: 2017-09-01
     date_end: 2019-08-31
-    summary: |
-      Passed with disinction.
+    summary: ""
 
   - area: B.Sc. in Business Administration *(with distinction)*
     institution: University of Mannheim
     date_start: 2013-09-01
     date_end: 2016-08-31
-    summary: |
-      Passed with disinction.
+    summary: ""
 
   - area: Exchange Semester
     institution: Bentley University, Massachusetts, U.S.
