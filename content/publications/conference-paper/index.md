@@ -66,6 +66,7 @@ image:
   quality: 95   
   resampleFilter: Lanczos
   preview_only: false
+  processing: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
