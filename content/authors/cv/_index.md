@@ -62,7 +62,7 @@ education:
     date_end: 2019-08-31
     summary: ""
 
-  - area: B.Sc. in Business Administration *(with distinction)*
+  - area: B.Sc. in Business Administration
     institution: University of Mannheim
     date_start: 2013-09-01
     date_end: 2016-08-31
