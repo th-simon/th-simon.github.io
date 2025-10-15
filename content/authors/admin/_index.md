@@ -49,26 +49,6 @@ interests:
   - Real Effects
   - Reinforcement Learning
 
-education:
-  - area: Ph.D. in Accounting
-    institution: University of Mannheim
-    date_start: 2019-09-01
-    date_end:
-    summary:
-    button:
-    
-  - area: M.Sc. in Management
-    institution: University of Mannheim
-    date_start: 2017-09-01
-    date_end: 2019-08-31
-    summary:
-    
-  - area: B.Sc. in Business Administration
-    institution: University of Mannheim
-    date_start: 2013-09-01
-    date_end: 2016-08-31
-    summary:
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
