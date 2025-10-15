@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
+        about: 'About me'
         education: ''
         interests: ''
         experience: ''
