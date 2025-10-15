@@ -37,30 +37,11 @@ sections:
       # You can either refer to username: admin or define them directly below
       # username: admin
       items:
-        - title: Doctoral Researcher in Accounting
-          company: University of Mannheim
-          company_url: "https://www.bwl.uni-mannheim.de/en/simons/team/thomas-simon/"
-          date_start: 2019-09-01
-          date_end:
-          description: "Graduate School of Economics and Social Sciences (GESS)"
-        - title: Visiting Research Scholar
-          company: University of Miami, Florida, U.S.
-          company_url: "https://www.bus.miami.edu/"
-          date_start: 2024-08-01
-          date_end: 2024-12-31
-          description: "Invited by Mark Maffett"
-        - title: Research and Teaching Assistant
-          company: University of Mannheim
-          date_start: 2017-09-01
-          date_end: 2019-08-31
-          description: "Chair of Accounting and Auditing"
-        - title: Lecturer (part-time)
-          company: Baden-Wuerttemberg Cooperative State University
-          date_start: 2020-03-01
-          date_end:
-          description: "Teaching Financial Accounting and Controlling"
+        - University of Mannheim
     design:
+      # Hugo date format
       date_format: 'January 2006'
+      # Education or Experience section first?
       is_education_first: false
   - block: collection
     id: papers
