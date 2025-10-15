@@ -44,17 +44,38 @@ profiles:
     url: https://github.com/th-simon
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Doctoral Studies in Accounting
+    institution: University of Mannheim
+    date_start: 2019-09-01
+    date_end: ""
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_.
-      Supervised by Prof. Andrew Ng.
-      Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com/thesis.pdf"
+      Graduate School of Economics and Social Sciences (GESS).  
+      Supervised by Prof. Dirk Simons and Prof. Jannis Bischof.
+
+  - area: Visiting Research Scholar
+    institution: University of Miami, Florida, U.S.
+    date_start: 2024-08-01
+    date_end: 2024-12-31
+    summary: |
+      Invited by Prof. Mark Maffett to conduct research on survey response behavior among firms.
+
+  - area: M.Sc. in Management *(with distinction)*
+    institution: University of Mannheim
+    date_start: 2017-09-01
+    date_end: 2019-08-31
+    summary: ""
+
+  - area: B.Sc. in Business Administration *(with distinction)*
+    institution: University of Mannheim
+    date_start: 2013-09-01
+    date_end: 2016-08-31
+    summary: ""
+
+  - area: Exchange Semester
+    institution: Bentley University, Massachusetts, U.S.
+    date_start: 2015-09-01
+    date_end: 2015-12-31
+    summary: ""
 
 interests:
   - Incentive Design
