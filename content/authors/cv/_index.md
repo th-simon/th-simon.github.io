@@ -49,7 +49,6 @@ education:
     date_start: 2019-09-01
     date_end: ""
     summary: |
-      Graduate School of Economics and Social Sciences (GESS).  
       Supervised by Prof. Dirk Simons and Prof. Jannis Bischof.
 
   - area: Visiting Research Scholar
@@ -57,19 +56,21 @@ education:
     date_start: 2024-08-01
     date_end: 2024-12-31
     summary: |
-      Invited by Prof. Mark Maffett to conduct research on survey response behavior among firms.
+      Invited by Prof. Mark Maffett.
 
-  - area: M.Sc. in Management *(with distinction)*
+  - area: M.Sc. in Management
     institution: University of Mannheim
     date_start: 2017-09-01
     date_end: 2019-08-31
-    summary: ""
+    summary: |
+      Passed with disinction.
 
   - area: B.Sc. in Business Administration *(with distinction)*
     institution: University of Mannheim
     date_start: 2013-09-01
     date_end: 2016-08-31
-    summary: ""
+    summary: |
+      Passed with disinction.
 
   - area: Exchange Semester
     institution: Bentley University, Massachusetts, U.S.
