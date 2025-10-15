@@ -65,7 +65,7 @@ image:
   focal_point: ''
   quality: 95   
   resampleFilter: Lanczos
-  preview_only: false
+  preview_only: true
   processing: false
 
 # Associated Projects (optional).
