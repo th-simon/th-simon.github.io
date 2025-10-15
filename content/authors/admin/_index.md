@@ -44,10 +44,10 @@ profiles:
     url: https://github.com/th-simon
 
 interests:
-  - Large Language Models
-  - Computer Vision
+  - Incentive Design
+  - Targeted Transparency
+  - Real Effects
   - Reinforcement Learning
-  - AI Ethics
 
 education:
   - area: PhD Computer Science (AI Focus)
