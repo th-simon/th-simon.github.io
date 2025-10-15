@@ -31,7 +31,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: resume-experience
+  - block: resume-experience   # if it still doesn't show, change to: experience
     id: experience
     content:
       title: "Experience"
@@ -39,8 +39,8 @@ sections:
         - title: Visiting Research Scholar
           company: University of Miami
           company_url: "https://www.bus.miami.edu/"
-          date_start: 2024-08-01
-          date_end: 2024-12-31
+          date_start: "2024-08-01"
+          date_end: "2024-12-31"
           description: "Invited by Mark Maffett."
     design:
       date_format: "January 2006"
