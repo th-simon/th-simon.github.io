@@ -7,8 +7,8 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Experience
-    url: /#experience
+  - name: Education
+    url: /#education
     weight: 11
   - name: Teaching
     url: /#teaching
