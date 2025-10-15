@@ -31,18 +31,20 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: resume-experience
+  - block: experience
+    id: experience
     content:
       title: "Experience"
-      # You can either refer to username: admin or define them directly below
-      # username: admin
       items:
-        - University of Mannheim
+        - title: Visiting Research Scholar
+          company: University of Miami
+          company_url: "https://www.bus.miami.edu/"
+          date_start: 2024-08-01
+          date_end: 2024-12-31
+          description: "Invited by Mark Maffett."
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
+      date_format: "January 2006"
+      view: 2
   - block: collection
     id: papers
     content:
