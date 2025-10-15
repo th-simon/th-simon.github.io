@@ -22,9 +22,6 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-headings:
-  about: 'About Me'
-
 # Role/position/tagline
 role: Ph.D. Candidate in Accounting
 
