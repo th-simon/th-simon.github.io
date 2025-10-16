@@ -1,1 +1,11 @@
+/* Tighten vertical space between sections */
+.section {
+  margin-top: 1.5rem !important;   /* default ~6rem */
+  margin-bottom: 1.5rem !important;
+}
 
+/* Optional: even tighter spacing specifically for publication lists */
+.section.collection {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
