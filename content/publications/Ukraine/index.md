@@ -31,13 +31,18 @@ tags:
 # Publication name and optional abbreviated publication name.
 publication: "*Wirtschaftsdienst, 102*(9)"
 
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.1007/s10273-022-3140-9
+
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links
 links:
   - type: pdf
-    url: https://www.wirtschaftsdienst.eu/inhalt/jahr/2022/heft/9/beitrag/kriegsauswirkungen-auf-unternehmen-energieabhaengigkeit-und-preiserhoehungen-7164.html
+    url: https://link.springer.com/article/10.1007/s10273-022-3267-4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
