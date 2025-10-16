@@ -33,9 +33,9 @@ featured: true
 
 # Custom links
 links:
-  - type: read
+  - type: pdf
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053083
-  - type: replication
+  - type: code
     url: https://search.gesis.org/research_data/SDN-10.7802-2836
 
 # Featured image
