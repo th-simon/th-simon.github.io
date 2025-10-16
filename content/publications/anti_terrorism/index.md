@@ -5,6 +5,11 @@ authors:
 - admin
 - Lauren Vollon
 
+date: '2025-10-01T00:00:00Z'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
+
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
