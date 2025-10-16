@@ -57,7 +57,9 @@ sections:
       text: ''
       filters:
         folders:
-          - publications/invitation_messages
+          - publications
+        tags:
+          - Adaptive Randomization
         exclude_featured: false
     design:
       view: citation
