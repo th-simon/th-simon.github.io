@@ -70,6 +70,9 @@ sections:
       filters:
         folders:
           - publications
+        tags:
+          - Job Market Paper
+          - Working Paper
         exclude_featured: false
     design:
       view: citation
