@@ -57,7 +57,7 @@ sections:
       text: ''
       filters:
         folders:
-          - invitation-messages
+          - invitation_messages
         exclude_featured: false
     design:
       view: citation
