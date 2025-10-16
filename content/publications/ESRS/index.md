@@ -30,7 +30,7 @@ tags:
 publication: "*Betriebs-Berater, 79*(23)"
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links
 links:
