@@ -8,6 +8,9 @@ appearance:
   mode: system
   color: indigo
 
+assets:
+  css: ["css/custom.css"]
+
 # SEO
 marketing:
   seo:
