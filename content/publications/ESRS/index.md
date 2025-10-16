@@ -59,4 +59,4 @@ slides: ""
 ---
 
 > [!NOTE]
-> This is a translation of the originally in German published article "Anwendung der ESRS durch deutsche Unternehmen — Umsetzungsstand und Herausforderungen".
+> This is an English translation of the article originally published in German as "Anwendung der ESRS durch deutsche Unternehmen — Umsetzungsstand und Herausforderungen".
