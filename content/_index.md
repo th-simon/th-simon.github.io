@@ -57,8 +57,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
-        category: "Scientific"
+          - invitation-messages
         exclude_featured: false
     design:
       view: citation
