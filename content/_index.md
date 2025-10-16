@@ -53,13 +53,13 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Scholarly Publication
+      title: Scholarly Publications
       text: ''
       filters:
         folders:
           - publications
         publication_type:
-          - article
+          - "article"
         exclude_featured: false
     design:
       view: citation
