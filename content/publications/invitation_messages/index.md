@@ -20,6 +20,8 @@ publishDate: '2017-01-01T00:00:00Z'
 # Enter a publication type from the CSL standard.
 publication_types: ["article"]
 
+categories: ["Scientific"]
+
 abstract: This study investigates how elements of a survey invitation message targeted to businesses influence their participation in a self-administered web survey. We implement a full factorial experiment varying five key components of the email invitation. Unlike traditional experimental setups with static group composition, however, we employ adaptive randomization in our sequential research design. Specifically, as the experiment progresses, a Bayesian learning algorithm assigns more observations to invitation messages with higher starting rates. Our results indicate that personalizing the message, emphasizing the authority of the sender, and pleading for help increase survey starting rates, while stressing strict privacy policies and changing the location of the survey URL have no response-enhancing effect. The implementation of adaptive randomization is useful for other applications of survey design and methodology.
 # Summary. An optional shortened abstract.
 summary: This study investigates how elements of a survey invitation message targeted to businesses influence their participation in a self-administered web survey.
