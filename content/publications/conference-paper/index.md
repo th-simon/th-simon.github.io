@@ -36,7 +36,7 @@ tags:
   - Job Market Paper
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Standard identifiers for auto-linking
 hugoblox:
