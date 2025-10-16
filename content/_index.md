@@ -41,7 +41,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: collection
-    id: papers
+    id: research
     content:
       title: Featured Research
       filters:
