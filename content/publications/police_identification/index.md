@@ -17,7 +17,7 @@ publication_types: ["working-paper"]
 abstract: Policing in high-stakes mass gatherings often raises allegations of accountability and appropriate use of force. This paper investigates the impact of a police oversight reform that introduced identification tags for police officers deployed at mass events. Using the staggered state-level implementation of such tags in Germany, we study how they affect misconduct, crime, and public trust. Exploiting daily district-level administrative data on police misconduct and criminal activity, we find that officer misconduct declines by 65% following the reform. Civilian crime rates remain stable or decline slightly, countering concerns that heightened oversight reduces policing efforts. Survey evidence further shows increased public trust in the police. Our findings suggest that low-cost transparency measures can reduce frictions in public prosecutions and improve police accountability without compromising public safety.
 
 # Summary. An optional shortened abstract.
-summary: This paper studies the impact of a police oversight reform that introduced identification tags for police officers deployed at mass events.
+summary: This study investigates the impact of a police oversight reform that introduced identification tags for police officers deployed at mass events.
 tags:
 - Working Paper
 - Targeted Transparency
