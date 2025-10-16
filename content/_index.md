@@ -78,7 +78,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Work In Progress
+      title: Work in Progress
       text: ''
       filters:
         folders:
