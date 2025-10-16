@@ -11,6 +11,9 @@ appearance:
 assets:
   css: ["css/custom.css"]
 
+design:
+  css: ["css/custom.css"]
+
 # SEO
 marketing:
   seo:
