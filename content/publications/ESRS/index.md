@@ -27,7 +27,7 @@ tags:
   - Sustainability
 
 # Publication name and optional abbreviated publication name.
-publication: In *Betriebs-Berater*
+publication: "*Betriebs-Berater, 79*(23)"
 
 # Display this page in the Featured widget?
 featured: true
