@@ -19,6 +19,7 @@ abstract: Policing in high-stakes mass gatherings often raises allegations of ac
 # Summary. An optional shortened abstract.
 summary: This paper studies the impact of a police oversight reform that introduced identification tags for police officers deployed at mass events.
 tags:
+- Working Paper
 - Targeted Transparency
 
 featured: true
