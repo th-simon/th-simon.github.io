@@ -25,7 +25,7 @@ tags:
 - Job Market Paper
 - Incentive Design
 
-featured: true
+featured: false
 
 # hugoblox:
 #   ids:
