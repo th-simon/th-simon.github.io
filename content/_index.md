@@ -53,7 +53,37 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      title: Scholarly Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Working Papers
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Work in Progress
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Professional Publications
       text: ''
       filters:
         folders:
