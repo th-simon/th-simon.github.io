@@ -1,5 +1,5 @@
 ---
-title: "The Relevance of Cost Structure for the Effecctiveness of Governmental Aid Programs"
+title: "The Relevance of Cost Structure for the Effectiveness of Governmental Aid Programs"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
