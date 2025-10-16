@@ -53,13 +53,11 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Scholarly Publications
+      title: Scholarly Publication
       text: ''
       filters:
         folders:
-          - publications
-        publication_type:
-          - "article"
+          - publications/invitation_messages
         exclude_featured: false
     design:
       view: citation
