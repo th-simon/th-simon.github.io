@@ -1,5 +1,5 @@
 ---
-title: "Application of the ESRS by German Companies - Implementation Status and Challenges"
+title: "Cost Structure and Business Flexibility During the COVID-19 Crisis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -21,7 +21,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Enter a publication type from the CSL standard.
 publication_types: ["Journal-Article"]
 
-abstract: Only a subset of firms succeeded in reducing costs during the COVID-19 pandemic as employment levels declined. Based on data from the German Business Panel, this article shows that this ability is primarily determined by firms’ pre-crisis cost structures — an insight that is highly relevant both for strategic cost management and for the effective design of government support measures
+abstract: Only a subset of firms succeeded in reducing costs during the COVID-19 pandemic as employment levels declined. Based on data from the German Business Panel, this article shows that this ability is primarily determined by firms’ pre-crisis cost structures — an insight that is highly relevant both for strategic cost management and for the effective design of government support measures.
 
 tags:
   - Professional Publication
