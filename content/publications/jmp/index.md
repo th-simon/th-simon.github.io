@@ -13,8 +13,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["working-paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Hips Don't Lie: Physician Incentive Contracting and Surgery Outcomes"
-publication_short: "Hips Don't Lie"
+# publication: "Hips Don't Lie: Physician Incentive Contracting and Surgery Outcomes"
+# publication_short: "Hips Don't Lie"
 
 abstract: This study examines the impact of volume-based incentive arrangements for hospital chief physicians on the quantity and quality of discretionary surgeries. I exploit a regulatory reform in Germany that prohibited incentive pay tied to procedural volumes and study its effect on hip replacement surgeries, a procedure subject to physician discretion and concerns about overuse. Following the reform, hip replacement volumes declined by 3.6% at affected hospitals, with the effect concentrated among privately owned hospitals, where volumes declined by 17.7%. I also find evidence that volume-based incentives are associated with higher incidences of surgery-related infections, suggesting adverse effects on treatment quality. These findings show that contractual incentives tied to output measures can distort treatment decisions and compromise quality, underscoring the real effects of incentive design in healthcare.
 
