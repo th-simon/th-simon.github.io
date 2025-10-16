@@ -78,11 +78,13 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Work in Progress
+      title: Work In Progress
       text: ''
       filters:
         folders:
           - publications
+      tags:
+          - Work In Progress
         exclude_featured: false
     design:
       view: citation
