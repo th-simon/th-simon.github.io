@@ -61,4 +61,4 @@ slides: ""
 ---
 
 > [!NOTE]
-> This is an English translation of the article originally published in German as "“Kriegsauswirkungen auf Unternehmen: Energieabhängigkeit und Preiserhöhungen".
+> This is an English translation of the article originally published in German as "Kriegsauswirkungen auf Unternehmen: Energieabhängigkeit und Preiserhöhungen".
