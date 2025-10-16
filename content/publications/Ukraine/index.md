@@ -1,5 +1,5 @@
 ---
-title: "Application of the ESRS by German Companies - Implementation Status and Challenges"
+title: "The Impact of War on Businesses: Energy Dependence and Price Increases"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
