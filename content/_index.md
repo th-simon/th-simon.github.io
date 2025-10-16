@@ -95,6 +95,8 @@ sections:
       filters:
         folders:
           - publications
+        tags:
+          - Professional Publication
         exclude_featured: false
     design:
       view: citation
