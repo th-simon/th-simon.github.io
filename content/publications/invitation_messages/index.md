@@ -46,10 +46,7 @@ links:
 image:
   caption: ''
   focal_point: ''
-  quality: 95   
-  resampleFilter: Lanczos
   preview_only: true
-  processing: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -67,5 +64,3 @@ slides: ""
 
 > [!NOTE]
 > This paper received the 2024 Award for Interdisciplinarity at the Center for Doctoral Studies in Business (GESS, University of Mannheim).
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
