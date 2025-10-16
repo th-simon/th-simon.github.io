@@ -83,7 +83,7 @@ sections:
       filters:
         folders:
           - publications
-      tags:
+        tags:
           - Work In Progress
         exclude_featured: false
     design:
