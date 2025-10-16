@@ -28,6 +28,9 @@ tags:
   - Publication
   - Adaptive Randomization
 
+# Publication name and optional abbreviated publication name.
+publication: In *Survey Research Methods (forthcoming)*
+
 # Display this page in the Featured widget?
 featured: true
 
