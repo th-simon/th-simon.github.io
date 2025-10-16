@@ -1,5 +1,4 @@
 ---
-
 title: "Invitation Messages for Business Surveys: A Multi-Armed Bandit Experiment"
 
 # Authors
