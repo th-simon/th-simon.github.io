@@ -58,6 +58,7 @@ sections:
       filters:
         folders:
           - publications
+        category: "Scientific"
         exclude_featured: false
     design:
       view: citation
