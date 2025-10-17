@@ -4,7 +4,7 @@ date: 2025-10-17
 authors:
   - admin
 
-summary: Demonstration of adaptive randomization in sequential experiments, including code.
+summary: Want to run more efficient experiments? See how to implement adaptive randomization in sequential experimental setups.
 
 tags: []
 featured: false
