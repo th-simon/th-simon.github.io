@@ -1,10 +1,10 @@
 ---
-title: Multi-Armed Bandit
+title: Multi-Armed Bandit Optimization
 date: 2025-10-17
 authors:
   - admin
 
-summary: Adaptive Randomization
+summary: Demonstration of adaptive randomization in sequential experiments, including code.
 
 tags: []
 featured: false
