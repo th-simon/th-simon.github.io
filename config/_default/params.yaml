@@ -14,6 +14,12 @@ assets:
 design:
   css: ["css/custom.css"]
 
+appearance:
+  name_case: none
+
+academic:
+  name_case: "none"
+
 # SEO
 marketing:
   seo:
