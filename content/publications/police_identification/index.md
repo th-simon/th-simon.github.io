@@ -3,7 +3,7 @@ title: "Police Officer Identification, Misconduct, and Public Trust"
 authors:
 - admin
 - Felix W. Vetter
-- Gerrit von Zedlitz
+- gerrit
 date: "2025-07-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
