@@ -106,7 +106,7 @@ sections:
       title: Teaching
       filters:
         folders:
-          - teaching
+          - events
     design:
       view: card
   - block: collection
