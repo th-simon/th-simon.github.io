@@ -19,3 +19,6 @@ main:
   - name: Ressources
     url: /#ressources
     weight: 14
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 15
