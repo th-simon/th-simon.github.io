@@ -15,6 +15,12 @@ image:
   preview_only: true
 ---
 
+### Executive Level
+
+**Financial Accounting, Controlling and Taxation Talent Program** — Spring 2025  
+*Lecturer in Controlling, Mannheim Business School*  
+
+
 ### Master Level
 
 **Disclosure Theory** — Spring 2022, 2023, 2024  
@@ -36,14 +42,7 @@ image:
 *TA and Exercise Instructor, University of Mannheim*  
 
 **Introduction to Financial Accounting** — Fall 2014; Spring 2015, 2016, 2018, 2019  
-*Student Teaching Assistant and Tutorial Instructor, University of Mannheim*  
-
-
-### Executive Level
-
-**Financial Accounting, Controlling and Taxation Talent Program** — Spring 2025  
-*Lecturer in Controlling, Mannheim Business School*  
-
+*Tutorial Instructor, University of Mannheim*  
 
 
 
