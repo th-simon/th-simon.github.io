@@ -1,7 +1,7 @@
 ---
-title: Teaching
+title: Ressources
 cms_exclude: true
-#url: courses
+#url: ressources
 
 # View
 view: card
