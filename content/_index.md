@@ -101,12 +101,12 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: teaching
     content:
-      title: Recent & Upcoming Talks
+      title: Teaching
       filters:
         folders:
-          - events
+          - teaching
     design:
       view: card
   - block: collection
