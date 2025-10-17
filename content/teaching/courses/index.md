@@ -30,19 +30,27 @@ image:
 *TA and Exercise Instructor, University of Mannheim*  
 
 **Group Accounting** — Fall 2020  
-*TA and Exercise Instructor, University of Mannheim*  
+*TA and Exercise Instructor, University of Mannheim*
+
+**Group Accounting** — Fall 2020  
+*TA and Exercise Instructor, University of Mannheim*
+
+**Master Theses** — since Fall 2020  
+*Independent Supervisor, University of Mannheim*
 
 
 ### Bachelor Level
 
-**Advanced Financial Accounting** — Fall 2020, 2021, 2022, 2023  
-*Lecturer, Baden-Wuerttemberg Cooperative State University*  
-
 **International Financial Accounting** — Spring 2021  
-*TA and Exercise Instructor, University of Mannheim*  
+*TA and Exercise Instructor, University of Mannheim*
+
+**Advanced Financial Accounting** — Fall 2020, 2021, 2022, 2023  
+*Lecturer, Baden-Wuerttemberg Cooperative State University*
 
 **Introduction to Financial Accounting** — Fall 2014; Spring 2015, 2016, 2018, 2019  
 *Tutorial Instructor, University of Mannheim*  
 
+**Bachelor Theses** — since Fall 2020  
+*Independent Supervisor, University of Mannheim*
 
 
