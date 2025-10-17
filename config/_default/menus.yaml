@@ -16,3 +16,6 @@ main:
   - name: Teaching
     url: /#teaching
     weight: 13
+  - name: Ressources
+    url: /#ressources
+    weight: 13
