@@ -53,7 +53,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2025} Thomas SIMON'
+    notice: '© (2025) Thomas SIMON'
     license:
       enable: false
       allow_derivatives: false
