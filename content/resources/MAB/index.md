@@ -39,7 +39,7 @@ Together with Johannes Gaul, Davud Rostam-Afschar, and Florian Keusch, I applied
 
 For details, use the following resources (and feel free to reach out!):  
 
-- Our paper, forthcoming in *Survey Research Methods*: [**Invitation Messages for Business Surveys: A Multi-Armed Bandit Experiment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053083)  
-- The [**replication package**](https://search.gesis.org/research_data/SDN-10.7802-2836), which includes code to implement *randomized probability matching* and reproduce all results.  
+- Our paper, forthcoming in *Survey Research Methods*: [**Invitation Messages for Business Surveys: A Multi-Armed Bandit Experiment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053083).  
+- The [**replication package**](https://search.gesis.org/research_data/SDN-10.7802-2836), which includes code to implement *randomized probability matching* and to reproduce all results.  
 - The original introduction of *randomized probability matching*: Scott, S. L. (2010). A modern Bayesian look at the multi-armed bandit. *Applied Stochastic Models in Business and Industry*, 26(6), 639–658.
 
