@@ -16,8 +16,8 @@ main:
   - name: Teaching
     url: /#teaching
     weight: 13
-  - name: Ressources
-    url: /#ressources
+  - name: Resources
+    url: /#resources
     weight: 14
   - name: CV
     url: uploads/resume.pdf
