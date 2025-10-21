@@ -26,3 +26,14 @@ MAB experiments are particularly useful in settings with strong output orientati
 
 ## Putting the MAB approach into practice
 Together with Johannes Gaul, Davud Rostam-Afschar, and Florian Keusch, I applied a multi-armed bandit approach in a large-scale business survey experiment. We aimed to identify how to phrase an invitation message targeted at business decision-makers so that their likelihood of starting the survey would be maximized, which is particularly relevant given the typically low response rates in business surveys. Over a 15-week period, 176,000 firms received one of 32 invitation message versions. Instead of implementing a fixed and balanced randomization scheme, we continuously updated the probability of sending each message version based on its observed starting rate, using a Bayesian decision rule known as randomized probability matching. This adaptive approach made it possible to learn which messages worked best while the experiment was still running and increased the number of survey starts by 6.66 percent compared to a traditional fixed design.
+
+## Learn more
+
+For details, see our paper:  
+👉 [**Invitation Messages for Business Surveys: A Multi-Armed Bandit Experiment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053083)
+
+The [**replication package**](https://search.gesis.org/research_data/SDN-10.7802-2836) includes the code to implement *randomized probability matching* and reproduce all results.
+
+For the original introduction of *randomized probability matching*, see:  
+Scott, S. L. (2010). *A modern Bayesian look at the multi-armed bandit.*  
+*Applied Stochastic Models in Business and Industry, 26*(6), 639–658.
