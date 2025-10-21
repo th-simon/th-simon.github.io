@@ -1,7 +1,7 @@
 ---
-title: Ressources
+title: Resources
 cms_exclude: true
-#url: ressources
+#url: resources
 
 # View
 view: card
