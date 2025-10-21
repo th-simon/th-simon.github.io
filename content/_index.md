@@ -110,12 +110,12 @@ sections:
     design:
       view: card
   - block: collection
-    id: ressources
+    id: resources
     content:
-      title: Ressources
+      title: Resources
       filters:
         folders:
-          - ressources
+          - resources
     design:
       view: card
 ---
