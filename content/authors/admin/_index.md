@@ -40,8 +40,6 @@ profiles:
     url: https://www.bwl.uni-mannheim.de/en/simons/team/thomas-simon/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/thomas-simon-mannheim/
-  - icon: brands/github
-    url: https://github.com/th-simon
 
 interests:
   - Incentive Design
