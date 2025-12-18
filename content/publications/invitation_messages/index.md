@@ -39,7 +39,7 @@ featured: true
 # Custom links
 links:
   - type: pdf
-    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053083
+    url: https://doi.org/10.18148/srm/2025.v19i4.8355
   - type: code
     url: https://search.gesis.org/research_data/SDN-10.7802-2836
 
