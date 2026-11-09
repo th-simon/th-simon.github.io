@@ -27,7 +27,7 @@ role: Assistant Professor of Accounting
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: London School of Economics and Political Science
+  - name: LSE
     url: https://www.lse.ac.uk/people/thomas-simon
 
 # Social network links
