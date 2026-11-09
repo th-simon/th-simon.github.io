@@ -23,21 +23,21 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Accounting
+role: Assistant Professor of Accounting
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Mannheim
-    url: https://www.bwl.uni-mannheim.de/en/simons/team/thomas-simon/
+  - name: London School of Economics and Political Science
+    url: https://www.lse.ac.uk/people/thomas-simon
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:thomas.simon@uni-mannheim.de'
+    url: 'mailto:t.simon@lse.ac.uk'
     label: E-mail Me
   - icon: building-library
-    url: https://www.bwl.uni-mannheim.de/en/simons/team/thomas-simon/
+    url: https://www.lse.ac.uk/people/thomas-simon
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/thomas-simon-mannheim/
   - icon: brands/github
@@ -47,7 +47,7 @@ education:
   - area: Doctoral Studies in Accounting
     institution: University of Mannheim
     date_start: 2019-09-01
-    date_end: ""
+    date_end: "2026-08-31"
     summary: ""
 
   - area: Visiting Research Scholar
@@ -81,4 +81,4 @@ interests:
   - Reinforcement Learning
 ---
 
-I am a final-stage Ph.D. candidate in Accounting at the University of Mannheim and will be on the 2025/26 academic job market. In 2024, I was a visiting research scholar at the University of Miami. My research examines how incentive design and transparency rules shape decision-making inside organizations. I study these questions both within firms and in other institutional settings such as healthcare and policing. Using empirical-archival and survey-based methods, my goal is to generate evidence that informs policy and practice.
+I am an Assistant Professor of Accounting at the London School of Economics and Political Science. I received my doctoral degree in Accounting from the University of Mannheim. In 2024, I was a visiting research scholar at the University of Miami. My research examines how incentive design and transparency rules shape decision-making inside organizations. I study these questions both within firms and in other institutional settings such as healthcare and policing. Using empirical-archival and survey-based methods, my goal is to generate evidence that informs policy and practice.
