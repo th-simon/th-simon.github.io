@@ -1,55 +1,43 @@
+
 ---
-title: "Operating Leverage and Corporate Responses to the COVID-19 Crisis"
+title: "Operating Leverage and Investment Adjustment in Times of Crisis: Evidence from COVID-19"
+
 authors:
-- Jannis Bischof
-- Christopher Karlsson
-- Davud Rostam-Afschar
-- admin
-- Dirk Simons
-date: "2025-06-01T00:00:00Z"
+  - Jannis Bischof
+  - Davud Rostam-Afschar
+  - admin
+  - Dirk Simons
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+date: '2026-11-03T00:00:00Z'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ["working-paper"]
 
-abstract: Managers choose operating leverage by balancing the benefits of low variable costs and greater capacity at times of business growth against the risk of low cost flexibility when faced with a negative revenue shock. We examine how firms' crisis responses and planning behavior vary with their degree of operating leverage by exploiting the fact that many firms experienced an unexpected negative revenue shock during the COVID-19 pandemic. We find that firms with high operating leverage react more dramatically to revenue declines and are less likely to invest or hire in both the short and medium term. Additional liquidity support in the form of government assistance mitigates this negative effect of operating leverage by reducing investment cancellations and increasing the likelihood of investment in the medium term. By contrast, firms with different levels of operating leverage behave very similarly if they are not facing a sudden drop in sales. The results show that operating leverage is an important determinant of firm flexibility and thus shapes a firm's resilience and risk profile.
+abstract: >-
+We study how operating leverage shapes firms' investment responses to unexpected revenue changes. We first develop a model in which past commitments that lower variable costs and current cost-reducing investments are substitutes. High-operating-leverage firms have already realized more cost savings through past commitments, leaving their remaining projects closer to the margin of profitability at the planned scale. When revenues fall unexpectedly, these firms therefore abandon a larger share of planned investment. We test this prediction using large-scale survey data from German firms collected during the COVID-19 pandemic. We measure operating leverage from the pass-through of revenue changes into profit changes, benchmarked against comparable firms experiencing the same revenue change. Consistent with the model, high-operating-leverage firms postpone and cancel 19.6% and 41.3% more of their planned investment, respectively, than low-operating-leverage firms, and they are less likely to plan investment over the subsequent two years. Additional analyses indicate that financial constraints do not fully explain these differences. Overall, the results show that operating leverage shapes investment beyond its effect on firms' ability to finance it.
 
-# Summary. An optional shortened abstract.
-summary: This study examines how firms' crisis responses and planning behavior vary with their degree of operating leverage following an unexpected negative revenue shock during the COVID-19 pandemic.
+summary: >-
+We examine how operating leverage shapes firms' investment adjustments following unexpected revenue shocks, using a theoretical model and survey evidence from German firms during the COVID-19 pandemic.
+
 tags:
-- Working Paper
-- Cost Structure
-- Crisis Response
+  - Working Paper
+  - Operating Leverage
+  - Investment
+  - COVID-19
 
 featured: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+links:
+  - type: pdf
+    url: /resources/BRSS_OperatingLeverage_Nov2026.pdf
+
 image:
   caption: ''
-  focal_point: ""
+  focal_point: ''
   preview_only: true
 
 sharing: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects:
-# - internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---
 
-Draft available upon request.
+Working paper, November 2026.
